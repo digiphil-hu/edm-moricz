@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dm2e="http://onto.dm2e.eu/schemas/dm2e/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:korbo="http://purl.org/net7/korbo/vocab#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:pro="http://purl.org/spar/pro/" xmlns:rdaGr2="http://RDVocab.info/ElementsGr2/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:void="http://rdfs.org/ns/void#" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:xalan="http://xml.apache.org/xalan" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <ore:Aggregation rdf:about="https://dhupla.hu/text/o:mzs-lev.tei.783">
+  <edm:aggregatedCHO rdf:resource="https://dhupla.hu/text/o:mzs-lev.tei.783"/>
+  <edm:dataProvider xml:lang="hu">
+   Petőfi Irodalmi Múzeum
+  </edm:dataProvider>
+  <edm:provider xml:lang="hu">
+   Digiphil
+  </edm:provider>
+  <edm:isShownAt rdf:resource="https://dhupla.hu/text/o:mzs-lev.tei.783"/>
+  <edm:isShownBy rdf:resource="https://dhupla.hu/s/moricz-zsigmond-levelezes/images/o:mzs-lev.tei.783/4b9.1.jpg"/>
+  <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+ </ore:Aggregation>
+ <edm:ProvidedCHO rdf:about="https://dhupla.hu/text/o:mzs-lev.tei.783">
+  <dc:title xml:lang="hu">
+   Móricz Zsigmond, Petrás Marianne, Klein Terka, Wollmann Elma, Voit Paula, Fiéba
+               Izabella, Herczegh Kamilla, Gerdenich Claudina, Boór Elza, Balogh Elemér, Belányi
+               Tivadar, Tabódy Ida, Bobok Karola, Lendvai Vilma, Frühm Anna, Rudolf Irma, Wölfel
+               Irma, Holényi István, Mészáros Dóra, Prohászka Ilona, Szilvay, Pfeifer Jánosné,
+               Fuchs, Menich Antal, Günther Anna, Pfeiffer János – Holics Janka (1906-06-30)
+  </dc:title>
+  <dc:creator>
+   Móricz Zsigmond
+  </dc:creator>
+  <dc:creator rdf:resource="http://viaf.org/viaf/22179627"/>
+  <dc:creator>
+   Petrás Marianne
+  </dc:creator>
+  <dc:creator>
+   Klein Terka
+  </dc:creator>
+  <dc:creator>
+   Wollmann Elma
+  </dc:creator>
+  <dc:creator>
+   Voit Paula
+  </dc:creator>
+  <dc:creator>
+   Fiéba Izabella
+  </dc:creator>
+  <dc:creator>
+   Herczegh Kamilla
+  </dc:creator>
+  <dc:creator>
+   Gerdenich Claudina
+  </dc:creator>
+  <dc:creator>
+   Boór Elza
+  </dc:creator>
+  <dc:creator>
+   Balogh Elemér
+  </dc:creator>
+  <dc:creator>
+   Belányi Tivadar
+  </dc:creator>
+  <dc:creator>
+   Tabódy Ida
+  </dc:creator>
+  <dc:creator>
+   Bobok Karola
+  </dc:creator>
+  <dc:creator>
+   Lendvai Vilma
+  </dc:creator>
+  <dc:creator>
+   Frühm Anna
+  </dc:creator>
+  <dc:creator>
+   Rudolf Irma
+  </dc:creator>
+  <dc:creator>
+   Wölfel Irma
+  </dc:creator>
+  <dc:creator>
+   Holényi István
+  </dc:creator>
+  <dc:creator>
+   Mészáros Dóra
+  </dc:creator>
+  <dc:creator>
+   Prohászka Ilona
+  </dc:creator>
+  <dc:creator>
+   Szilvay
+  </dc:creator>
+  <dc:creator>
+   Pfeifer Jánosné
+  </dc:creator>
+  <dc:creator>
+   Fuchs
+  </dc:creator>
+  <dc:creator>
+   Menich Antal
+  </dc:creator>
+  <dc:creator>
+   Günther Anna
+  </dc:creator>
+  <dc:creator>
+   Pfeiffer János
+  </dc:creator>
+  <dc:contributor>
+   Holics Janka
+  </dc:contributor>
+  <dcterms:created>
+   1906-06-30
+  </dcterms:created>
+  <dc:contributor>
+   Cséve Anna
+  </dc:contributor>
+  <dc:contributor rdf:resource="http://viaf.org/viaf/40275753"/>
+  <dc:contributor>
+   Palkó Gábor
+  </dc:contributor>
+  <dc:contributor rdf:resource="http://viaf.org/viaf/65989506"/>
+  <dc:contributor>
+   Fellegi Zsófia
+  </dc:contributor>
+  <dc:language>
+   hu
+  </dc:language>
+  <dc:type rdf:resource="http://vocab.getty.edu/aat/300026879"/>
+  <edm:type>
+   TEXT
+  </edm:type>
+ </edm:ProvidedCHO>
+ <edm:WebResource rdf:about="https://dhupla.hu/text/o:mzs-lev.tei.783">
+  <dc:format xml:lang="en">
+   text/html
+  </dc:format>
+ </edm:WebResource>
+</rdf:RDF>

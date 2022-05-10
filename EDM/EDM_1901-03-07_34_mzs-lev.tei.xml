@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:bibo="http://purl.org/ontology/bibo/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dm2e="http://onto.dm2e.eu/schemas/dm2e/" xmlns:edm="http://www.europeana.eu/schemas/edm/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:korbo="http://purl.org/net7/korbo/vocab#" xmlns:ore="http://www.openarchives.org/ore/terms/" xmlns:owl="http://www.w3.org/2002/07/owl#" xmlns:pro="http://purl.org/spar/pro/" xmlns:rdaGr2="http://RDVocab.info/ElementsGr2/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:void="http://rdfs.org/ns/void#" xmlns:wgs84_pos="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:xalan="http://xml.apache.org/xalan" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+ <ore:Aggregation rdf:about="https://dhupla.hu/text/o:mzs-lev.tei.98">
+  <edm:aggregatedCHO rdf:resource="https://dhupla.hu/text/o:mzs-lev.tei.98"/>
+  <edm:dataProvider xml:lang="hu">
+   Petőfi Irodalmi Múzeum
+  </edm:dataProvider>
+  <edm:provider xml:lang="hu">
+   Digiphil
+  </edm:provider>
+  <edm:isShownAt rdf:resource="https://dhupla.hu/text/o:mzs-lev.tei.98"/>
+  <edm:isShownBy rdf:resource="https://dhupla.hu/s/moricz-zsigmond-levelezes/images/o:mzs-lev.tei.98/MGY_0382_MoriczBalint_es_Dezso_Moricz_Zsigmondnak_1901_03_07_c.jpg"/>
+  <edm:rights rdf:resource="http://creativecommons.org/licenses/by-nc-sa/3.0/"/>
+ </ore:Aggregation>
+ <edm:ProvidedCHO rdf:about="https://dhupla.hu/text/o:mzs-lev.tei.98">
+  <dc:title xml:lang="hu">
+   Móricz Dezső – Móricz Zsigmond (1901-03-07)
+  </dc:title>
+  <dc:creator>
+   Móricz Dezső
+  </dc:creator>
+  <dc:contributor>
+   Móricz Zsigmond
+  </dc:contributor>
+  <dc:contributor rdf:resource="http://viaf.org/viaf/22179627"/>
+  <dcterms:created>
+   1901-03-07
+  </dcterms:created>
+  <dc:contributor>
+   Cséve Anna
+  </dc:contributor>
+  <dc:contributor rdf:resource="http://viaf.org/viaf/40275753"/>
+  <dc:contributor>
+   Palkó Gábor
+  </dc:contributor>
+  <dc:contributor rdf:resource="http://viaf.org/viaf/65989506"/>
+  <dc:contributor>
+   Fellegi Zsófia
+  </dc:contributor>
+  <dc:language>
+   hu
+  </dc:language>
+  <dc:type rdf:resource="http://vocab.getty.edu/aat/300026879"/>
+  <edm:type>
+   TEXT
+  </edm:type>
+ </edm:ProvidedCHO>
+ <edm:WebResource rdf:about="https://dhupla.hu/text/o:mzs-lev.tei.98">
+  <dc:format xml:lang="en">
+   text/html
+  </dc:format>
+ </edm:WebResource>
+</rdf:RDF>
